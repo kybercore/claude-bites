@@ -1,8 +1,10 @@
-# bites
+# Claude Bites
 
 Have you ever stared at the Claude Code CLI while it cycles through "Beaming…", "Quantumizing…" and "Metamorphosing…"?
 
 Now you can wait while learning something new!
+
+![Claude Code showing a fun fact about octopuses in place of the spinner text, and "Learned 5 new things" after a finished turn](assets/screenshot.png)
 
 ## How it works
 
