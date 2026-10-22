@@ -1,0 +1,11 @@
+{
+  "name": "bites",
+  "version": "0.1.0",
+  "description": "Learn something while you wait: fun facts written by Claude replace the spinner text, on any topic you tell Claude about.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "kybercore"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/kybercore/claude-bites"
+}

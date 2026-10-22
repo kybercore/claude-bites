@@ -1,0 +1,5 @@
+{
+  "name": "claude-bites",
+  "owner": { "name": "kybercore" },
+  "plugins": [{ "name": "bites", "source": "./" }]
+}
